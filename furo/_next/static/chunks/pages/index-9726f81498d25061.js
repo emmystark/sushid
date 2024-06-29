@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[405],{51211:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return u(38033)}])},38033:function(n,t,u){"use strict";u.r(t),u.d(t,{default:function(){return s}});var r=u(97458),e=u(86634),i=u(19801);function s(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(e.PB,{title:"Dashboard"}),(0,r.jsx)(i.A,{})]})}}},function(n){n.O(0,[774,888,179],(function(){return t=51211,n(n.s=t);var t}));var t=n.O();_N_E=t}]);
+//# sourceMappingURL=index-9726f81498d25061.js.map
